@@ -20,6 +20,7 @@ class GetRequester
     programs.collect do |program|
       program["#{k}"]
     end
+  end
     
   
 end
